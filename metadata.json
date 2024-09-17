@@ -1,0 +1,14 @@
+
+{
+    "uuid":               "agism@agism.sourceforge.io",
+    "version":            4,
+    "name":               "Agism",
+    "url":                "https://agism.sourceforge.io/",
+    "description":        "(D-Bus) API for GNOME Input Source Manager.",
+    "original-authors":   [ "Van de Bugger" ],
+    "shell-version":      [
+        "46"
+    ],
+    "version": 46
+}
+
