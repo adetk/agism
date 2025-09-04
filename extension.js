@@ -28,8 +28,9 @@
 
 import GLib from 'gi://GLib';
 import Gio from 'gi://Gio';
-import {getInputSourceManager} from 'resource:///org/gnome/shell/ui/status/keyboard.js';
+
 import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
+import {getInputSourceManager} from 'resource:///org/gnome/shell/ui/status/keyboard.js';
 
 // -------------------------------------------------------------------------------------------------
 // Agism class.
